@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Biography
+
 ======
 Senior Research Fellow in Machine Learning for Weather and Climate Science in AI Centre at University College London. Theme lead for UCL's Met Office Academic Partnership. My research interests focus on the intersection of data-driven approaches with high performance computing techniques in the area of atmospheric and ocean modelling.
 
