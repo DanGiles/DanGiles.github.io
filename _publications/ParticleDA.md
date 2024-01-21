@@ -1,5 +1,5 @@
 ---
-title: "Meteotsunamis and other anomalous “tidal surge” events in western Europe in summer 2022"
+title: "ParticleDA.jl v.1.0: A real-time data assimilation software platform. "
 collection: publications
 permalink: /publications/ParticleDA
 excerpt: ''

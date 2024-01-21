@@ -59,6 +59,29 @@ Work experience
   * Julia
   * C++ -->
 
+Academic Reviewer
+======
+Reviewed numerous submissions to the following journals
+* Journal of Applied Mathematical Modelling; the European Journal of Mechanics /B Fluids; Wave Modelling; Estuarine, Coastal and Shelf Science; Applied Mathematics and Computing; Hydroinformatics; Natural Hazards and Earth System Sciences; International Journal for Uncertainty Quantification
+
+Academic Supervisor
+======
+Academic co-supervisor for a student's MSc project (UCL Machine Learning) (present)
+* "Embedding a machine learning model within a global atmospheric model" 
+
+Academic co-supervisor for a student's MSc project (UCL Scientific and Data Intensive Computing Masters) (May. 2021  - Sep. 2021)
+* The student's project was a collaboration with the UK Met Office and it focused on developing machine and statistical learning approaches for predicting atmospheric indices
+
+Academic co-supervisor for a student's (ENS Paris-Saclay) undergraduate internship (Apr. 2019  - Aug. 2019)
+* The student's work focused on developing ML techniques for capturing localised tsunami responses
+
+Workshops & Conferences
+======
+Co-organised a mini-symposium at SIAM GS, Bergen 2023
+* Fusing of machine learning with weather/climate modelling
+
+Delivered a workshop at IIT Delhi, 2023
+* Computing methods for Validation, Verification and Uncertainty Quantification
 
 Awards & Scholarships 
 ======
@@ -88,27 +111,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Academic Reviewer
-======
-Reviewed numerous submissions to the following journals
-* Journal of Applied Mathematical Modelling; the European Journal of Mechanics /B Fluids; Wave Modelling; Estuarine, Coastal and Shelf Science; Applied Mathematics and Computing; Hydroinformatics; Natural Hazards and Earth System Sciences; International Journal for Uncertainty Quantification
-
-Academic Supervisor
-======
-Academic co-supervisor for a student's MSc project (UCL Machine Learning) (present)
-* ``Embedding a machine learning model within a global atmospheric model" 
-
-Academic co-supervisor for a student's MSc project (UCL Scientific and Data Intensive Computing Masters) (May. 2021  - Sep. 2021)
-* The student's project was a collaboration with the UK Met Office and it focused on developing machine and statistical learning approaches for predicting atmospheric indices
-
-Academic co-supervisor for a student's (ENS Paris-Saclay) undergraduate internship (Apr. 2019  - Aug. 2019)
-* The student's work focused on developing ML techniques for capturing localised tsunami responses
-
-Workshops & Conferences
-======
-Co-organised a mini-symposium at SIAM GS, Bergen 2023
-* Fusing of machine learning with weather/climate modelling
-
-Devlivered a workshop at IIT Delhi, 2023
-* Computing methods for Validation, Verification and Uncertainty Quantification
 
