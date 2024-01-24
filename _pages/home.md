@@ -4,7 +4,7 @@ title: "Home"
 permalink: /
 author_profile: true
 redirect_from:
-  - /resume
+  - /home/
 ---
 
 {% include base_path %}
