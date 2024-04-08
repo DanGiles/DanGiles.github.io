@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-03-28
 venue: 'Geoscientific Model Development'
 paperurl: 'https://doi.org/10.5194/gmd-17-2427-2024'
-citation: 'Giles, D., Graham, M. M., Giordano, M., Koskela, T., Beskos, A., and Guillas, S.: ParticleDA.jl v.1.0: a distributed particle-filtering data assimilation package, Geosci. Model Dev., 17, 2427–2445, https://doi.org/10.5194/gmd-17-2427-2024, 2024.'
+citation: 'Giles, D., Graham, M. M., Giordano, M., Koskela, T., Beskos, A., and Guillas, S.: ParticleDA.jl v.1.0: a distributed particle-filtering data assimilation package, Geosci. Model Dev., 17, 2427–2445, 2024.'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
