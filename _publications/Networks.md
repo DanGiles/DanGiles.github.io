@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/Networks
 excerpt: ''
 date: 2024-01-30
-venue: ''
+venue: 'Physical Review E (under review)'
 paperurl: 'https://doi.org/10.48550/arXiv.2401.16978'
 citation: 'Gleeson, J., Cassidy, A., Giles, D. and Faqeeh, A.: Time-dependent influence metric for cascade dynamics on networks, 2024.'
 ---
