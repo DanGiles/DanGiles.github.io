@@ -20,21 +20,25 @@ Education
 Work experience
 ======
 * Senior Research Fellow in Machine Learning for Weather and Climate, AI Centre, Department of Computer Sciences, University College London, Oct. 2023 - present
-  * Supervising undergraduate and master students
-  * Tools Systems and Practices Theme lead for the Met Office Academic Partnership
-  * Consultant on the Met Office Transatlantic Data Science Academy
+  * Acting deputy group leader of the Sustainability and Machine Learning Group.
+  * Oversee and manage ongoing research projects.
+  * Collaborate with various international research groups. 
+  * Co-supervise PhD students within the Departments of Statistical Sciences and Computer Science.
+  * Lead the “Tools, Systems and Practices” Met Office Academic Partnership (MOAP) working group. 
+  * Supervise BSc and MSc students.
+  * Teach as a guest lecturer for MSc modules.
 
 * Senior Research Software Engineer/Data Scientist, Centre of Advanced Research Computing (ARC), University College London, Jan. 2023 - Oct. 2023
-  * Developer for the UCL/AWS Centre of Digital innovation (CDI). Built open-source data processing pipelines on AWS resources for startups within the cohort. Worked with and supported the PhD funded researchers.
-  * Project lead for the optimisation of a massively parallelised cosmology code (DiRAC SWIFT). Project involves mapping computing processes to physical cores to minimise latency.
-  * Line manager for Junior Research Software Engineer
+  * Managed ARC's involvement in the UCL Centre of Digital Innovation (CDI). The UCL CDI is a collaborative initiative between UCL and AWS. Performed technical needs assessments and developed data processing pipelines for start-ups within the CDI Impact Accelerator programme. Worked with and supported the PhD funded researchers.
+  * Led a project involving the optimisation of a cosmological code designed to run on peta-scale machines. The optimisation of the codebase involved implementing architecture aware mapping of distributed memory computations.
+  * Managed assistant research software engineers.
 
 * Research Fellow, Department of Statistical Sciences, University College London, Feb. 2021 - Jan. 2023
-  * Core developer of an open source data assimilation software package which implements particle filtering techniques and has applications in atmospheric and tsunami modelling
-  * Initiated an ongoing collaboration with a UK Met Office partner to improve the representation of high resolution information within the Unified Model for climate predictions.
-  * Partnered with AON (reinsurance) and the Met Office to develop real-time approaches for providing historical context to severe weather events.
-  * Developed the numerical software on a joint project with AON titled: “Production-level Cascadia tsunami hazard model incorporating far-field sources”.
-  * Academic mentoring of two PhD students. Support focused on high performance computing methods, the implementation of statistical learning techniques and the running of climate models.
+  * Developed an open source data assimilation software package which implements particle filtering techniques and has applications in atmospheric and tsunami modelling (Julia). 
+  * Collaborated with a UK Met Office partner to improve the representation of high resolution information within the Unified Model for climate predictions. 
+  * Partnered with AON (reinsurance) to develop real-time approaches for providing historical context to severe weather events. 
+  * Developed the numerical software on a project funded by AON (reinsurance) titled: “Production-level Cascadia tsunami hazard model incorporating far-field sources”. 
+  * Co-supervised a student's MSc project focusing on developing machine learning approaches to predict atmospheric indices from real observations.
   * Associate Member of the Centre of Advanced Research Computing (ARC)
 
 * Postgraduate Research Scholar, School of Mathematics and Statistics, University College Dublin, Oct. 2017 - Jan. 2021
@@ -94,7 +98,8 @@ Awards & Scholarships
 * Science and Engineering Summer Research Scholarship (UL40) (University of Limerick, 2016)
 * Summer Research Scholarship at the Paul Scherrer Institute (PSI, 2017)
 * Government of Ireland Postgraduate Research Scholarship (2017)
-* Bertram Broberg Memorial Medal (2021) - Awarded to the best PhD thesis in Mechanics across the Schools of Engineering, Mathematics & Statistics and Physics. 
+* Bertram Broberg Memorial Medal (2021) - Awarded to the best PhD thesis in Mechanics across the Schools of Engineering, Mathematics & Statistics and Physics.
+* ABSW Media Fellowship (2024) 
 
 Publications
 ======
