@@ -19,8 +19,11 @@ Education
 
 Work experience
 ======
+* Technical Specialist, Advanced Research and Invention Agency, Sep. 2024 - present
+  * Technical lead for the forecasting tipping points programme.
+
 * Senior Research Fellow in Machine Learning for Weather and Climate, AI Centre, Department of Computer Sciences, University College London, Oct. 2023 - present
-  * Acting deputy group leader of the Sustainability and Machine Learning Group.
+  * Acted deputy group leader of the Sustainability and Machine Learning Group.
   * Oversee and manage ongoing research projects.
   * Collaborate with various international research groups. 
   * Co-supervise PhD students within the Departments of Statistical Sciences and Computer Science.
@@ -69,9 +72,9 @@ Work experience
 Academic Reviewer
 ======
 Reviewed numerous submissions to the following journals
-* Journal of Applied Mathematical Modelling; the European Journal of Mechanics /B Fluids; Wave Modelling; Estuarine, Coastal and Shelf Science; Applied Mathematics and Computing; Hydroinformatics; Natural Hazards and Earth System Sciences; International Journal for Uncertainty Quantification
+* Journal of Applied Mathematical Modelling; the European Journal of Mechanics /B Fluids; Wave Modelling; Estuarine, Coastal and Shelf Science; Applied Mathematics and Computing; Hydroinformatics; Natural Hazards and Earth System Sciences; International Journal for Uncertainty Quantification; ICLR
 
-Academic Supervisor
+<!-- Academic Supervisor
 ======
 Academic co-supervisor for a student's MSc project (UCL Machine Learning) (present)
 * "Embedding a machine learning model within a global atmospheric model" 
@@ -80,7 +83,7 @@ Academic co-supervisor for a student's MSc project (UCL Scientific and Data Inte
 * The student's project was a collaboration with the UK Met Office and it focused on developing machine and statistical learning approaches for predicting atmospheric indices
 
 Academic co-supervisor for a student's (ENS Paris-Saclay) undergraduate internship (Apr. 2019  - Aug. 2019)
-* The student's work focused on developing ML techniques for capturing localised tsunami responses
+* The student's work focused on developing ML techniques for capturing localised tsunami responses -->
 
 Workshops & Conferences
 ======
@@ -100,6 +103,8 @@ Awards & Scholarships
 * Government of Ireland Postgraduate Research Scholarship (2017)
 * Bertram Broberg Memorial Medal (2021) - Awarded to the best PhD thesis in Mechanics across the Schools of Engineering, Mathematics & Statistics and Physics.
 * ABSW Media Fellowship (2024) 
+* ELLIT Visiting Scholar: Machine Learning for Climate Science (2024) 
+
 
 Publications
 ======
